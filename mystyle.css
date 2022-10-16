@@ -1,0 +1,60 @@
+img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+body{
+    background-image: url('https://i.pinimg.com/550x/94/fb/9e/94fb9e94f0db7e3d429df2d9c64527d2.jpg');
+    background-size: cover;
+    text-align: center;
+   margin: 0;
+animation: ;}
+footer {
+        margin-bottom: 0;
+
+    bottom:0;
+    left:0;
+    width:100%;
+    height: 90px;
+    background-color: #D0DAEE;
+  }
+  h1 {
+   
+    color: #FF1E1E;
+    font-family: algerian ;
+   
+    text-align: center;
+  
+
+  }
+  p{ font-family: algerian;
+    color:pink;
+
+  }
+  h6{
+    text-align: center;
+  }
+  h2{
+    text-align: center;
+  }
+  a{
+    text-align: center;
+    color: darkblue;
+  }
+  div{
+    text-decoration: solid;
+    color: #FF99D7;
+    font-family: algerian;
+    }
+  span{
+    text-decoration: solid;
+    color: #EA047E;
+    font-family: algerian;
+
+  }
+  li{
+    text-align: left;
+    color: darkorange;
+
+  }
